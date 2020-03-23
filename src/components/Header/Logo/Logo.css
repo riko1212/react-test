@@ -1,0 +1,11 @@
+.header-logo a{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: #DA3F23;
+    font-family: 'Anton';
+}
+
+.header-logo a:hover {
+    text-decoration: none;
+}

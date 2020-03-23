@@ -1,0 +1,15 @@
+.footer {
+    padding: 25px 0;
+    background-color: #222B2A; 
+}
+
+.footer-wrapp {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.copy {
+    color: #959B9B;
+}
+
