@@ -1,0 +1,30 @@
+.Login {
+    padding: 100px 0;
+    background-color: #DFD9AA;
+}
+
+.login-form {
+    width: 400px;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #425855;
+    margin: auto;
+}
+
+.login-title {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    color: #CEBA88;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.login-form input {
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 40px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
